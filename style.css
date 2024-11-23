@@ -34,8 +34,8 @@
 }
 .gnrlIMG {
     position: relative;
-    left: 1100px;
-    bottom: 240px;
+    left: 950px;
+    bottom: 280px;
 }
 .btn {
     position: relative;
@@ -46,7 +46,7 @@
     height: 41px;
     border-radius: 5px;
     border: 0;
-    transition: 0.4s;
+    transition: 0.1s;
 }
 button:hover {
     opacity: 0.5;
@@ -88,7 +88,7 @@ footer {
     font-weight: lighter;
     color: gray;
     position: relative;
-    bottom: 170px;
+    bottom: 350px;
     left: 225px;
 }
 body {
