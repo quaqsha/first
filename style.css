@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Open+Sans:ital,wght@0,700;1,700&display=swap');
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+.logo1 {
+    position: relative;
+    top: 15px;
+    left: 100px;
+}
+.line {
+    font-weight: 700;
+}
+.time {
+    border: 0;
+}
+.gnrlH {
+    font-family: "Dela Gothic One", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 56px;
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+.minorH {
+    font-family: sans-serif;
+    font-size: 36px;
+    font-weight: lighter;
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+.gnrlIMG {
+    position: relative;
+    left: 1000px;
+    bottom: 240px;
+}
+.btn {
+    position: relative;
+    right: 568px;
+    top: 200px;
+    background-color:rgba(61, 104, 225, 1);
+    width: 666px;
+    height: 41px;
+    border-radius: 5px;
+    border: 0;
+}
+.txtbtn {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    position: relative;
+    bottom: 11px;
+}
+.put1 {
+    width: 322px;
+    height: 41px;
+    position: relative;
+    left: 98px;
+    top: 120px;
+    border-radius: 3px;
+    border-width: 1px;
+}
+.put2 {
+    width: 322px;
+    height: 41px;
+    position: relative;
+    left: 102px;
+    top: 120px;
+    border-radius: 3px;
+    border-width: 1px;
+}
+footer {
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: lighter;
+    color: gray;
+    position: relative;
+    bottom: 170px;
+    left: 225px;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    overflow: hidden;
+}
+th {
+    font-weight: lighter;
+    color: gray;
+}
+td {
+    font-size: larger;
+}
+table { 
+    border-collapse: collapse; 
+}
+tr { 
+    border: none; 
+}
+td {
+  border-right: solid 1px gray; 
+  border-left: solid 1px gray;
+}
+th {
+    border-right: solid 1px gray; 
+    border-left: solid 1px gray;
+}
